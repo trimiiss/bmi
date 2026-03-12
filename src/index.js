@@ -1,6 +1,7 @@
 import { Box, Button, Heading, Image, Input, Text, VStack } from "native-base";
 import React, { useState } from "react";
-
+//testimiiiitestimiiiitestimiiiitestimiiii
+//ufydx
 const GetBMI = () => {
   const [weight, setWeight] = useState(``);
   const [height, setHeight] = useState(``);
